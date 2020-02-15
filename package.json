@@ -1,0 +1,30 @@
+{
+  "name": "hero",
+  "version": "1.0.0",
+  "description": "Demo repository for ICS 385 Spring 2020 Sample code use nodejs to demo use of external packages for SuperHeroes, SuperVillains and Inspirational-Quotes from npmjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "famous-last-words": "^0.3.0",
+    "inspirational-quotes": "^1.0.8",
+    "popular-movie-quotes": "^1.2.3",
+    "superheroes": "^3.0.0",
+    "supervillains": "^3.0.0",
+    "thoughts": "^2.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debasisb/hero.git"
+  },
+  "bugs": {
+    "url": "https://github.com/debasisb/hero/issues"
+  },
+  "homepage": "https://github.com/debasisb/hero#readme"
+}
